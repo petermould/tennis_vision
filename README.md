@@ -4,10 +4,6 @@ A computer vision pipeline for analyzing broadcast tennis footage — detecting 
 
 ## Demo
 
-Initial YOLO player/ball detection:
-
-![Initial YOLO detection](yolo.jpg)
-
 Final output — tracking, court calibration, mini-court, and live match stats:
 
 ![Demo output](example_output.png)
