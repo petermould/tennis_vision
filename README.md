@@ -1,4 +1,4 @@
-# tennis-vision
+# Tennis-Vision
 
 A computer vision pipeline for analyzing broadcast tennis footage — detecting and tracking players and the ball, calibrating real-world court geometry from a trained keypoint model, and deriving live match statistics (shot speed, player movement speed, rally structure) through homography-based coordinate mapping.
 
